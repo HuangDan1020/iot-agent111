@@ -1,0 +1,22 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 密钥（绝对不要提交）
+key.txt
+.env
+
+# 本地数据
+*.db
+*.db-journal
+*.sqlite3
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
